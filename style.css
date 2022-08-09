@@ -1,0 +1,31 @@
+body {
+	background: #CCCCCC
+}
+
+#salgados {
+	width: 100%
+}
+
+h1 {
+	text-align: center;
+	}
+
+p {
+	text-align: center;
+		font-size: 20px
+}
+
+strong {
+	color: #FF0000;
+}
+
+.itens{
+	font-style: italic;
+	font-size: 20px;
+}
+#salgado2{
+	width: 50%
+}
+#cerveja{
+	width: 50%
+}
